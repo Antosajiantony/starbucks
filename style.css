@@ -44,6 +44,9 @@ body{
         font-size: 18px !important;
 
     }
+    .imd{
+      width: 100% ;
+    }
     
   }
   .sec3{
@@ -59,5 +62,8 @@ background-color: black;
   .footlink a:hover{
     color: rgb(31, 88, 45);
   }
+  .para{
+    text-align: center;
+   }
 
 
